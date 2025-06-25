@@ -1,7 +1,8 @@
 # 🧑‍💻 JavaScript Assignment – DOM Manipulation + Mini Projects
 
-## 🎯 Objective
-This assignment is designed for first-year web development students to practice and strengthen their understanding of **core JavaScript concepts** and **DOM manipulation** through small, interactive projects.
+📅 Deadline: Submit by Sunday via Pull Request
+📝 Note: This assignment is meant to reinforce concepts and apply your learnings thorugh mini-projects.
+🚫 Do not use ChatGPT or AI tools to solve the assignment.
 
 ---
 
